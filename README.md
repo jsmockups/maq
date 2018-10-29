@@ -1,6 +1,6 @@
 # maq
 maquetas de @ddon
-/*
+
 
 
 cards=  [ ];
